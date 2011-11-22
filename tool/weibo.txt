@@ -1,0 +1,4 @@
+# 定时触发检查微博更新
+cycle = 30000
+topic = TASK/check_weibo
+message = check
